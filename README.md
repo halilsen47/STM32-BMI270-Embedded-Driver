@@ -28,6 +28,7 @@ Customizable: You can easily adjust the cutoff frequency ($f_c$) and sampling ra
 | **SCK** | PA5 | SPI Clock (SPI1_SCK) |
 | **MISO** | PA6 | Master In Slave Out (SPI1_MISO) |
 | **MOSI** | PA7 | Master Out Slave In (SPI1_MOSI) |
+
 ✨ Key Features
 SPI DMA Support: Minimizes CPU overhead by using DMA for data transfers.
 
