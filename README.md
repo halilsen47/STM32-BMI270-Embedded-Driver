@@ -39,6 +39,7 @@ The 0x92 Rule: Correctly implements the mandatory "Read Bit" and dummy byte hand
 Low Noise: Achieves stable readings with minimal jitter (approx 0.01 dps at rest).
 
 Modular Architecture: The Biquad filter is decoupled from the sensor logic, allowing you to use it with any other IMU or signal source.
+
 🤝 Contributing
 Since this was created because of a lack of resources, I highly encourage you to contribute! If you add features like Accelerometer support or I2C, please send a Pull Request so we can make this the go-to resource for STM32 users.
 
