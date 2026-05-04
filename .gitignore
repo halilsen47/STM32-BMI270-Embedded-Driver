@@ -1,0 +1,21 @@
+# STM32CubeIDE gereksiz dosyalar
+Debug/
+Release/
+.settings/
+.project
+.cproject
+.mxproject
+
+# Derleme dosyaları
+*.o
+*.su
+*.d
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
